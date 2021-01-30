@@ -1,0 +1,19 @@
+﻿  Number.cpp
+  NumberList.cpp
+C:\Users\jules\source\repos\OOPCoursework\OOPCoursework\NumberList.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\OOPCoursework\OOPCoursework\NumberList.cpp(316,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\OOPCoursework\OOPCoursework\NumberList.cpp(347,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\OOPCoursework\OOPCoursework\NumberList.cpp(364,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\OOPCoursework\OOPCoursework\NumberList.cpp(385,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\OOPCoursework\OOPCoursework\NumberList.cpp(558,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\OOPCoursework\OOPCoursework\NumberList.cpp(578,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\jules\source\repos\OOPCoursework\OOPCoursework\main.cpp(6,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\OOPCoursework\OOPCoursework\main.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\OOPCoursework\OOPCoursework\main.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\OOPCoursework\OOPCoursework\main.cpp(70,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\jules\source\repos\OOPCoursework\OOPCoursework\main.cpp(52): warning C4715: 'isDigit': not all control paths return a value
+C:\Users\jules\source\repos\OOPCoursework\OOPCoursework\main.cpp(31): warning C4715: 'isAlpha': not all control paths return a value
+C:\Users\jules\source\repos\OOPCoursework\OOPCoursework\NumberList.cpp(418): warning C4715: 'NumberList::iterator': not all control paths return a value
+  OOPCoursework.vcxproj -> C:\Users\jules\source\repos\OOPCoursework\Debug\OOPCoursework.exe
